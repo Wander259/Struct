@@ -1,0 +1,27 @@
+ #include<iostream>
+using namespace std;
+
+/*
+结构体数组定义：
+struct 结构体名 数组名[元素个数]={ {初始值1},{初始值2}, {初始值3},{初始值4}.....}
+（struct可省略）
+
+赋值：
+数组名[下标].变量名 = 数值;
+
+
+结构体指针：
+先创建一个结构体对象 例如：
+Student s1={"张三"，180,18};
+创建指针p指向s1：
+Student * p = &s1;
+指针指向具体变量：
+p->变量名;
+
+*/
+int main() {
+
+
+	system("pause");
+	return 0;
+}

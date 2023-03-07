@@ -1,0 +1,25 @@
+#include<iostream>
+using namespace std;
+
+/*
+1 结构体的定义：
+struct 结构体名 {   
+成员列表
+...
+...
+};
+
+
+2 创建具体对象 
+struct 结构体名 对象名；  //struct 可以省略
+
+初始化值 
+struct 结构体名 对象名={成员变量;成员变量;  ......   }
+对象名.成员变量 = 具体值;
+*/
+int main() {
+
+
+	system("pause");
+	return 0;
+}
